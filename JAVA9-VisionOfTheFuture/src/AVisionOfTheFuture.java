@@ -3,7 +3,7 @@
  * This one looks at different forms of loops
  * 
  * Find the blog here,
- * http://testsheepnz.blogspot.co.nz/2016/08/java-7-conditional-world-of-ifs.html
+ * http://testsheepnz.blogspot.co.nz/2016/08/java-9-repeating-ourselves-with-loops.html
  * 
  * YOU ALREADY KNOW WHAT WAITS FOR YOU IN ROOM 101
  * 
